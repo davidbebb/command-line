@@ -1,0 +1,8 @@
+wc -count words in a file
+
+Usage wc [switches] file
+
+Switches
+
+-l Count lines
+-w Count words
