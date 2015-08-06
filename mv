@@ -1,0 +1,5 @@
+mv - Move (or rename) a file or directory
+
+Usage mv <current location> <new location>
+
+e.g. mv /home/bob/test /home/bob/test2 would move/renanme 'test' to 'test2'
