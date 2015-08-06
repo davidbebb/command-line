@@ -1,0 +1,5 @@
+grep - show lines matching a pattern
+
+Usage grep <pattern> <file>
+
+Pattern can be either simple string or regex
